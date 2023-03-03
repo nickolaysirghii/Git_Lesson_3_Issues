@@ -1,0 +1,4 @@
+
+suppose we write some code .
+we do anther commit .
+now we do our third comit .
